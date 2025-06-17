@@ -1,0 +1,1 @@
+Write Go code with Go 1.24 or later features. Use the latest idioms and best practices.
